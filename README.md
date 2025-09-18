@@ -1,5 +1,5 @@
 # CODSOFT
-this repository contains all the tasks that i will do in my internship at codsoft
+this repository contains all the tasks that i did in my virutal internship(project based certifacte program) at codsoft
 
 Task 1: I built a classification model to predict whether a passenger would survive the Titanic disaster. The goal was to classify passengers into one of two groups—survived or did not survive—based on features such as age, gender, class, and more.
 
